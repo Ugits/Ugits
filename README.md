@@ -1,16 +1,13 @@
-### Hi there 👋
+# Hi, I'm Ugits 👋
 
-<!--
-**Ugits/Ugits** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I build web applications and Java backends, with projects inspired by games and tabletop role-playing. My work spans interactive interfaces, APIs, and the connections between them.
 
-Here are some ideas to get you started:
+### Technologies
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Java · Spring · TypeScript · React · Next.js
+
+### Selected projects
+
+- **[crypt](https://github.com/Ugits/crypt)** — A two-player game about finding paths through secret mazes, built with React, TypeScript, and Vite, using PeerJS/WebRTC to connect players.
+- **[Spellify](https://github.com/Ugits/Spellify)** — A Java API for D&D spells, with client and admin functionality.
+- **RoleMate** — A project for managing role-playing characters and spells, with a Next.js/TypeScript [frontend](https://github.com/Ugits/RoleMate-Frontend) and a Java [backend](https://github.com/Ugits/RoleMate-Backend) for characters, accounts, and authentication.
