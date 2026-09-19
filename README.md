@@ -1,4 +1,4 @@
-![Abstract dark blue gradient banner by Codioful](https://images.unsplash.com/photo-1614850523011-8f49ffc73908?auto=format&fit=crop&w=1400&h=280&q=85)
+<img src="https://images.unsplash.com/photo-1614850523011-8f49ffc73908?auto=format&amp;fit=crop&amp;w=1400&amp;h=280&amp;q=85" alt="Abstract dark blue gradient banner by Codioful" width="100%">
 
 # Ugits
 
