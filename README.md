@@ -1,3 +1,5 @@
+![Abstract dark blue gradient banner by Codioful](https://images.unsplash.com/photo-1614850523011-8f49ffc73908?auto=format&fit=crop&w=1400&h=280&q=85)
+
 # Ugits
 
 I build web applications and Java backends, with projects inspired by games and tabletop role-playing. My work spans interactive interfaces, APIs, and the connections between them.
